@@ -1,0 +1,334 @@
+[13-Aug-2017 03:36:23 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 03:36:23 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 03:36:27 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 03:36:27 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 03:36:28 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 03:36:28 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 03:38:51 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 03:38:51 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 03:42:06 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 03:42:06 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 03:51:15 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 03:51:15 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 04:00:24 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 04:00:24 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 04:02:35 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 04:02:35 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 04:03:41 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 04:03:41 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 04:04:24 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 04:04:24 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 04:22:11 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 04:22:11 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 04:22:12 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 04:22:12 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 04:22:13 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 04:22:13 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 04:22:14 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 04:22:14 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 04:22:15 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 04:22:15 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 04:45:40 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 04:45:40 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 05:02:41 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 05:02:41 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 05:04:07 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 05:04:07 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 05:17:14 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 05:17:14 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 05:23:23 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 05:23:23 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 05:23:57 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 05:23:57 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 05:24:37 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 05:24:37 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 05:45:36 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 05:45:36 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 05:45:40 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 05:45:40 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 05:49:30 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 05:49:30 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 08:00:31 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 08:00:31 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 08:00:37 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 08:00:37 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 08:45:05 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 08:45:05 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 09:18:25 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 09:18:25 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 09:51:45 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 09:51:45 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:11:55 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:11:55 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:11:59 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:11:59 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:12:52 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:12:52 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:12:56 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:12:56 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:15:09 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:15:09 UTC] PHP Stack trace:
+[13-Aug-2017 12:15:09 UTC] PHP   1. {main}() /home/seanryan30/public_html/index.php:0
+[13-Aug-2017 12:15:09 UTC] PHP   2. require() /home/seanryan30/public_html/index.php:22
+[13-Aug-2017 12:15:09 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:15:09 UTC] PHP Stack trace:
+[13-Aug-2017 12:15:09 UTC] PHP   1. {main}() /home/seanryan30/public_html/index.php:0
+[13-Aug-2017 12:15:09 UTC] PHP   2. require() /home/seanryan30/public_html/index.php:22
+[13-Aug-2017 12:15:27 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:15:27 UTC] PHP Stack trace:
+[13-Aug-2017 12:15:27 UTC] PHP   1. {main}() /home/seanryan30/public_html/index.php:0
+[13-Aug-2017 12:15:27 UTC] PHP   2. require() /home/seanryan30/public_html/index.php:22
+[13-Aug-2017 12:15:27 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:15:27 UTC] PHP Stack trace:
+[13-Aug-2017 12:15:27 UTC] PHP   1. {main}() /home/seanryan30/public_html/index.php:0
+[13-Aug-2017 12:15:27 UTC] PHP   2. require() /home/seanryan30/public_html/index.php:22
+[13-Aug-2017 12:16:11 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:16:11 UTC] PHP Stack trace:
+[13-Aug-2017 12:16:11 UTC] PHP   1. {main}() /home/seanryan30/public_html/index.php:0
+[13-Aug-2017 12:16:11 UTC] PHP   2. require() /home/seanryan30/public_html/index.php:22
+[13-Aug-2017 12:16:11 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:16:11 UTC] PHP Stack trace:
+[13-Aug-2017 12:16:11 UTC] PHP   1. {main}() /home/seanryan30/public_html/index.php:0
+[13-Aug-2017 12:16:11 UTC] PHP   2. require() /home/seanryan30/public_html/index.php:22
+[13-Aug-2017 12:18:02 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:18:02 UTC] PHP Stack trace:
+[13-Aug-2017 12:18:02 UTC] PHP   1. {main}() /home/seanryan30/public_html/index.php:0
+[13-Aug-2017 12:18:02 UTC] PHP   2. require() /home/seanryan30/public_html/index.php:22
+[13-Aug-2017 12:18:02 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:18:02 UTC] PHP Stack trace:
+[13-Aug-2017 12:18:02 UTC] PHP   1. {main}() /home/seanryan30/public_html/index.php:0
+[13-Aug-2017 12:18:02 UTC] PHP   2. require() /home/seanryan30/public_html/index.php:22
+[13-Aug-2017 12:18:04 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:18:04 UTC] PHP Stack trace:
+[13-Aug-2017 12:18:04 UTC] PHP   1. {main}() /home/seanryan30/public_html/index.php:0
+[13-Aug-2017 12:18:04 UTC] PHP   2. require() /home/seanryan30/public_html/index.php:22
+[13-Aug-2017 12:18:04 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:18:04 UTC] PHP Stack trace:
+[13-Aug-2017 12:18:04 UTC] PHP   1. {main}() /home/seanryan30/public_html/index.php:0
+[13-Aug-2017 12:18:04 UTC] PHP   2. require() /home/seanryan30/public_html/index.php:22
+[13-Aug-2017 12:20:52 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:20:52 UTC] PHP Stack trace:
+[13-Aug-2017 12:20:52 UTC] PHP   1. {main}() /home/seanryan30/public_html/index.php:0
+[13-Aug-2017 12:20:52 UTC] PHP   2. require() /home/seanryan30/public_html/index.php:22
+[13-Aug-2017 12:20:52 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:20:52 UTC] PHP Stack trace:
+[13-Aug-2017 12:20:52 UTC] PHP   1. {main}() /home/seanryan30/public_html/index.php:0
+[13-Aug-2017 12:20:52 UTC] PHP   2. require() /home/seanryan30/public_html/index.php:22
+[13-Aug-2017 12:21:14 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:21:14 UTC] PHP Stack trace:
+[13-Aug-2017 12:21:14 UTC] PHP   1. {main}() /home/seanryan30/public_html/index.php:0
+[13-Aug-2017 12:21:14 UTC] PHP   2. require() /home/seanryan30/public_html/index.php:22
+[13-Aug-2017 12:21:14 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:21:14 UTC] PHP Stack trace:
+[13-Aug-2017 12:21:14 UTC] PHP   1. {main}() /home/seanryan30/public_html/index.php:0
+[13-Aug-2017 12:21:14 UTC] PHP   2. require() /home/seanryan30/public_html/index.php:22
+[13-Aug-2017 12:22:08 UTC] PHP Warning:  require(/home/seanryan30/laravel/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:22:08 UTC] PHP Stack trace:
+[13-Aug-2017 12:22:08 UTC] PHP   1. {main}() /home/seanryan30/public_html/index.php:0
+[13-Aug-2017 12:22:08 UTC] PHP   2. require() /home/seanryan30/public_html/index.php:22
+[13-Aug-2017 12:22:08 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:22:08 UTC] PHP Stack trace:
+[13-Aug-2017 12:22:08 UTC] PHP   1. {main}() /home/seanryan30/public_html/index.php:0
+[13-Aug-2017 12:22:08 UTC] PHP   2. require() /home/seanryan30/public_html/index.php:22
+[13-Aug-2017 12:22:36 UTC] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/seanryan30/public_html/index.php on line 22
+[13-Aug-2017 12:22:39 UTC] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/seanryan30/public_html/index.php on line 22
+[13-Aug-2017 12:24:20 UTC] PHP Warning:  require(/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:24:20 UTC] PHP Stack trace:
+[13-Aug-2017 12:24:20 UTC] PHP   1. {main}() /home/seanryan30/public_html/index.php:0
+[13-Aug-2017 12:24:20 UTC] PHP   2. require() /home/seanryan30/public_html/index.php:22
+[13-Aug-2017 12:24:20 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:24:20 UTC] PHP Stack trace:
+[13-Aug-2017 12:24:20 UTC] PHP   1. {main}() /home/seanryan30/public_html/index.php:0
+[13-Aug-2017 12:24:20 UTC] PHP   2. require() /home/seanryan30/public_html/index.php:22
+[13-Aug-2017 12:24:20 UTC] PHP Warning:  require(/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:24:20 UTC] PHP Stack trace:
+[13-Aug-2017 12:24:20 UTC] PHP   1. {main}() /home/seanryan30/public_html/index.php:0
+[13-Aug-2017 12:24:20 UTC] PHP   2. require() /home/seanryan30/public_html/index.php:22
+[13-Aug-2017 12:24:20 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:24:20 UTC] PHP Stack trace:
+[13-Aug-2017 12:24:20 UTC] PHP   1. {main}() /home/seanryan30/public_html/index.php:0
+[13-Aug-2017 12:24:20 UTC] PHP   2. require() /home/seanryan30/public_html/index.php:22
+[13-Aug-2017 12:24:24 UTC] PHP Warning:  require(/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:24:24 UTC] PHP Stack trace:
+[13-Aug-2017 12:24:24 UTC] PHP   1. {main}() /home/seanryan30/public_html/index.php:0
+[13-Aug-2017 12:24:24 UTC] PHP   2. require() /home/seanryan30/public_html/index.php:22
+[13-Aug-2017 12:24:24 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:24:24 UTC] PHP Stack trace:
+[13-Aug-2017 12:24:24 UTC] PHP   1. {main}() /home/seanryan30/public_html/index.php:0
+[13-Aug-2017 12:24:24 UTC] PHP   2. require() /home/seanryan30/public_html/index.php:22
+[13-Aug-2017 12:24:30 UTC] PHP Warning:  require(/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:24:30 UTC] PHP Stack trace:
+[13-Aug-2017 12:24:30 UTC] PHP   1. {main}() /home/seanryan30/public_html/index.php:0
+[13-Aug-2017 12:24:30 UTC] PHP   2. require() /home/seanryan30/public_html/index.php:22
+[13-Aug-2017 12:24:30 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:24:30 UTC] PHP Stack trace:
+[13-Aug-2017 12:24:30 UTC] PHP   1. {main}() /home/seanryan30/public_html/index.php:0
+[13-Aug-2017 12:24:30 UTC] PHP   2. require() /home/seanryan30/public_html/index.php:22
+[13-Aug-2017 12:24:46 UTC] PHP Warning:  require(/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:24:46 UTC] PHP Stack trace:
+[13-Aug-2017 12:24:46 UTC] PHP   1. {main}() /home/seanryan30/public_html/index.php:0
+[13-Aug-2017 12:24:46 UTC] PHP   2. require() /home/seanryan30/public_html/index.php:22
+[13-Aug-2017 12:24:46 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:24:46 UTC] PHP Stack trace:
+[13-Aug-2017 12:24:46 UTC] PHP   1. {main}() /home/seanryan30/public_html/index.php:0
+[13-Aug-2017 12:24:46 UTC] PHP   2. require() /home/seanryan30/public_html/index.php:22
+[13-Aug-2017 12:25:46 UTC] PHP Warning:  require(/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:25:46 UTC] PHP Stack trace:
+[13-Aug-2017 12:25:46 UTC] PHP   1. {main}() /home/seanryan30/public_html/index.php:0
+[13-Aug-2017 12:25:46 UTC] PHP   2. require() /home/seanryan30/public_html/index.php:2
+[13-Aug-2017 12:25:46 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:25:46 UTC] PHP Stack trace:
+[13-Aug-2017 12:25:46 UTC] PHP   1. {main}() /home/seanryan30/public_html/index.php:0
+[13-Aug-2017 12:25:46 UTC] PHP   2. require() /home/seanryan30/public_html/index.php:2
+[13-Aug-2017 12:26:28 UTC] PHP Warning:  require(/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:26:28 UTC] PHP Stack trace:
+[13-Aug-2017 12:26:28 UTC] PHP   1. {main}() /home/seanryan30/public_html/index.php:0
+[13-Aug-2017 12:26:28 UTC] PHP   2. require() /home/seanryan30/public_html/index.php:2
+[13-Aug-2017 12:26:28 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:26:28 UTC] PHP Stack trace:
+[13-Aug-2017 12:26:28 UTC] PHP   1. {main}() /home/seanryan30/public_html/index.php:0
+[13-Aug-2017 12:26:28 UTC] PHP   2. require() /home/seanryan30/public_html/index.php:2
+[13-Aug-2017 12:26:30 UTC] PHP Warning:  require(/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:26:30 UTC] PHP Stack trace:
+[13-Aug-2017 12:26:30 UTC] PHP   1. {main}() /home/seanryan30/public_html/index.php:0
+[13-Aug-2017 12:26:30 UTC] PHP   2. require() /home/seanryan30/public_html/index.php:2
+[13-Aug-2017 12:26:30 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:26:30 UTC] PHP Stack trace:
+[13-Aug-2017 12:26:30 UTC] PHP   1. {main}() /home/seanryan30/public_html/index.php:0
+[13-Aug-2017 12:26:30 UTC] PHP   2. require() /home/seanryan30/public_html/index.php:2
+[13-Aug-2017 12:29:02 UTC] PHP Warning:  require(/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:29:02 UTC] PHP Stack trace:
+[13-Aug-2017 12:29:02 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[13-Aug-2017 12:29:02 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2
+[13-Aug-2017 12:29:02 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:29:02 UTC] PHP Stack trace:
+[13-Aug-2017 12:29:02 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[13-Aug-2017 12:29:02 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2
+[13-Aug-2017 12:29:04 UTC] PHP Warning:  require(/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:29:04 UTC] PHP Stack trace:
+[13-Aug-2017 12:29:04 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[13-Aug-2017 12:29:04 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2
+[13-Aug-2017 12:29:04 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:29:04 UTC] PHP Stack trace:
+[13-Aug-2017 12:29:04 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[13-Aug-2017 12:29:04 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2
+[13-Aug-2017 12:29:59 UTC] PHP Warning:  require(/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:29:59 UTC] PHP Stack trace:
+[13-Aug-2017 12:29:59 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[13-Aug-2017 12:29:59 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2
+[13-Aug-2017 12:29:59 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 12:29:59 UTC] PHP Stack trace:
+[13-Aug-2017 12:29:59 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[13-Aug-2017 12:29:59 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2
+[13-Aug-2017 16:15:57 UTC] PHP Warning:  require(/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 16:15:57 UTC] PHP Stack trace:
+[13-Aug-2017 16:15:57 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[13-Aug-2017 16:15:57 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2
+[13-Aug-2017 16:15:57 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 16:15:57 UTC] PHP Stack trace:
+[13-Aug-2017 16:15:57 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[13-Aug-2017 16:15:57 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2
+[13-Aug-2017 23:10:23 UTC] PHP Warning:  require(/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 23:10:23 UTC] PHP Warning:  require(/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 23:10:23 UTC] PHP Stack trace:
+[13-Aug-2017 23:10:23 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[13-Aug-2017 23:10:23 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2
+[13-Aug-2017 23:10:23 UTC] PHP Stack trace:
+[13-Aug-2017 23:10:23 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 23:10:23 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[13-Aug-2017 23:10:23 UTC] PHP Stack trace:
+[13-Aug-2017 23:10:23 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2
+[13-Aug-2017 23:10:23 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[13-Aug-2017 23:10:23 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2
+[13-Aug-2017 23:10:23 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 23:10:23 UTC] PHP Stack trace:
+[13-Aug-2017 23:10:23 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[13-Aug-2017 23:10:23 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2
+[13-Aug-2017 23:10:26 UTC] PHP Warning:  require(/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 23:10:26 UTC] PHP Stack trace:
+[13-Aug-2017 23:10:26 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[13-Aug-2017 23:10:26 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2
+[13-Aug-2017 23:10:26 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 23:10:26 UTC] PHP Stack trace:
+[13-Aug-2017 23:10:26 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[13-Aug-2017 23:10:26 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2
+[13-Aug-2017 23:10:27 UTC] PHP Warning:  require(/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 23:10:27 UTC] PHP Stack trace:
+[13-Aug-2017 23:10:27 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[13-Aug-2017 23:10:27 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2
+[13-Aug-2017 23:10:27 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 23:10:27 UTC] PHP Stack trace:
+[13-Aug-2017 23:10:27 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[13-Aug-2017 23:10:27 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2
+[13-Aug-2017 23:10:31 UTC] PHP Warning:  require(/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 23:10:31 UTC] PHP Stack trace:
+[13-Aug-2017 23:10:31 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[13-Aug-2017 23:10:31 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2
+[13-Aug-2017 23:10:31 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 23:10:31 UTC] PHP Stack trace:
+[13-Aug-2017 23:10:31 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[13-Aug-2017 23:10:31 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2
+[13-Aug-2017 23:10:31 UTC] PHP Warning:  require(/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 23:10:31 UTC] PHP Stack trace:
+[13-Aug-2017 23:10:31 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[13-Aug-2017 23:10:31 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2
+[13-Aug-2017 23:10:31 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[13-Aug-2017 23:10:31 UTC] PHP Stack trace:
+[13-Aug-2017 23:10:31 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[13-Aug-2017 23:10:31 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2
+[14-Aug-2017 16:37:35 UTC] PHP Warning:  require(/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[14-Aug-2017 16:37:35 UTC] PHP Stack trace:
+[14-Aug-2017 16:37:35 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[14-Aug-2017 16:37:35 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2
+[14-Aug-2017 16:37:35 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[14-Aug-2017 16:37:35 UTC] PHP Stack trace:
+[14-Aug-2017 16:37:35 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[14-Aug-2017 16:37:35 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2
+[14-Aug-2017 16:37:36 UTC] PHP Warning:  require(/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[14-Aug-2017 16:37:36 UTC] PHP Stack trace:
+[14-Aug-2017 16:37:36 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[14-Aug-2017 16:37:36 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2
+[14-Aug-2017 16:37:36 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[14-Aug-2017 16:37:36 UTC] PHP Stack trace:
+[14-Aug-2017 16:37:36 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[14-Aug-2017 16:37:36 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2
+[14-Aug-2017 16:37:38 UTC] PHP Warning:  require(/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[14-Aug-2017 16:37:38 UTC] PHP Stack trace:
+[14-Aug-2017 16:37:38 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[14-Aug-2017 16:37:38 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2
+[14-Aug-2017 16:37:38 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[14-Aug-2017 16:37:38 UTC] PHP Stack trace:
+[14-Aug-2017 16:37:38 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[14-Aug-2017 16:37:38 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2
+[14-Aug-2017 16:57:46 UTC] PHP Warning:  require(/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[14-Aug-2017 16:57:46 UTC] PHP Stack trace:
+[14-Aug-2017 16:57:46 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[14-Aug-2017 16:57:46 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2
+[14-Aug-2017 16:57:46 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[14-Aug-2017 16:57:46 UTC] PHP Stack trace:
+[14-Aug-2017 16:57:46 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[14-Aug-2017 16:57:46 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2
+[14-Aug-2017 16:59:26 UTC] PHP Warning:  require(/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[14-Aug-2017 16:59:26 UTC] PHP Stack trace:
+[14-Aug-2017 16:59:26 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[14-Aug-2017 16:59:26 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2
+[14-Aug-2017 16:59:26 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[14-Aug-2017 16:59:26 UTC] PHP Stack trace:
+[14-Aug-2017 16:59:26 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[14-Aug-2017 16:59:26 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2
+[14-Aug-2017 17:04:33 UTC] PHP Warning:  require(/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[14-Aug-2017 17:04:33 UTC] PHP Stack trace:
+[14-Aug-2017 17:04:33 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[14-Aug-2017 17:04:33 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2
+[14-Aug-2017 17:04:33 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[14-Aug-2017 17:04:33 UTC] PHP Stack trace:
+[14-Aug-2017 17:04:33 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[14-Aug-2017 17:04:33 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2
+[14-Aug-2017 17:19:25 UTC] PHP Warning:  require(/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[14-Aug-2017 17:19:25 UTC] PHP Stack trace:
+[14-Aug-2017 17:19:25 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[14-Aug-2017 17:19:25 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2
+[14-Aug-2017 17:19:25 UTC] PHP Fatal error:  require(): Failed opening required '/home/seanryan30/laravel-drabr/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/seanryan30/laravel-drabr/bootstrap/autoload.php on line 17
+[14-Aug-2017 17:19:25 UTC] PHP Stack trace:
+[14-Aug-2017 17:19:25 UTC] PHP   1. {main}() /home/seanryan30/public_html/laravel/index.php:0
+[14-Aug-2017 17:19:25 UTC] PHP   2. require() /home/seanryan30/public_html/laravel/index.php:2

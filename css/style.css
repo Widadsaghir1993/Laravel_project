@@ -1,0 +1,195 @@
+body {color: #333}
+.logo {color: #000}
+a {color:#999;}
+.black-color a:focus, a:hover{
+	color:#000 !important;
+    text-decoration: none !important; 
+}
+.topBar {text-align: center; font-weight: bold;  padding-bottom: 10px;}
+.col-lg-12, .col-lg-2, .col-sm-4, .col-lg-5 ,.col-sm-8, .col-sm-12,  {padding-right: 0px; padding-left: 0px}
+.header {border-bottom: 1px solid #FFF; }
+.form-control {border-radius: 0px}
+.btn  {border-radius: 0px}
+.input-group-addon {border-radius: 0px}
+.logoSlogan {font-size: 14px; color: #999;}
+.head-link {color: #000; font-size: 14px}
+.pin {
+  width: 30px;
+  height: 30px;
+  border-radius: 50% 50% 50% 0;
+  background: #00cae9;
+  position: absolute;
+  transform: rotate(-45deg);
+  left: 50%;
+  top: 50%;
+  margin: -20px 0 0 -20px;
+}
+.desc-place {font-weight: bold}
+.pin:after {
+  content: "";
+  width: 14px;
+  height: 14px;
+  margin: 8px 0 0 8px;
+  background: #e6e6e6;
+  position: absolute;
+  border-radius: 50%;
+}
+.logo-lg {font-size: 24px}
+.main-header .logo {text-align: left}
+.timeSec {font-size: 12px; color: #999; padding-right: 10px}
+.bounce {
+  animation-name: bounce;
+  animation-fill-mode: both;
+  animation-duration: 1s;
+}
+
+.back {font-size: 13px; color: #00a65a; font-weight: bold; padding-right: 10px}
+.commentIcon {    
+	margin-left: 10px;
+    color: #f39c12;
+    font-size: 20px;
+}
+.commentText {color: #333; font-size: 14px; padding: 12px;}
+.timeSpanNew {font-size: 12px; color: #333}
+.mapMarker {color: #d81b60; font-size: 21px}
+.markerText {font-size: 12px; color: #333}
+.pointer {cursor: pointer;}
+.fileUploaded {color: #FFF; background-color: #00a65a !important}
+.timeSpan {color: #00c0ef; font-size: 18px}
+.timeline>li>.timeline-item {background: transparent; }
+.timeline>li>.timeline-item>.timeline-header {
+	color: #FFF;
+	font-size: 14px;
+}
+.timeline li {border-top: 1px dotted #333; padding-bottom: 5px}
+.timeline-item:hover {cursor: pointer}
+.white-font {color: #333}
+.timeline-body {
+	color: #333;
+	font-size: 14px;
+}
+.desc-distance {color: #333}
+.timeline {padding: 5px}
+.message {
+    position: absolute;
+    width: 300px;
+    height: 50px;
+    top: 55%;
+    left: 50%;
+    margin-left: -100px; /* margin is -0.5 * dimension */
+  font-size: 14px;
+  color: #333; 
+}
+.imageList {margin-right: 10px; margin-top: 20px}
+.allowGps {margin-left: 50px;}
+.pulse {
+  background: #d6d4d4;
+  border-radius: 50%;
+  height: 14px;
+  width: 14px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin: 11px 0px 0px -12px;
+  transform: rotateX(55deg);
+  z-index: -2;
+}
+.pulse:after {
+  content: "";
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+  position: absolute;
+  margin: -13px 0 0 -13px;
+  animation: pulsate 1s ease-out;
+  animation-iteration-count: infinite;
+  opacity: 0;
+  box-shadow: 0 0 1px 2px #00cae9;
+  animation-delay: 1.1s;
+}
+
+@keyframes pulsate {
+  0% {
+    transform: scale(0.1, 0.1);
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 1;
+  }
+
+  100% {
+    transform: scale(1.2, 1.2);
+    opacity: 0;
+  }
+}
+
+@keyframes bounce {
+  0% {
+    opacity: 0;
+    transform: translateY(-2000px) rotate(-45deg);
+  }
+
+  60% {
+    opacity: 1;
+    transform: translateY(30px) rotate(-45deg);
+  }
+
+  80% {
+    transform: translateY(-10px) rotate(-45deg);
+  }
+
+  100% {
+    transform: translateY(0) rotate(-45deg);
+  }
+}
+
+
+.commentsFlag {position: relative; top: -5px;}
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 10;
+  background-color: rgba(0,0,0,0.5);
+}
+.skin-blue .main-header .logo:hover {background-color: transparent;}
+.wait {
+
+	position: absolute;
+    width: 300px;
+    height: 50px;
+    top: 35%;
+    left: 50%;
+    font-size: 34px;
+    color: #FFF;
+}
+.search-main-field .input-group {
+    float: left;
+    width: calc(100% - 100px);
+}
+.search-main-field .btn {
+	background-color: #000;
+	border-color: #000;
+	float: right;
+	width: 88px;
+}
+.search-main-field {
+    display: inline-block;
+    width: 100%;
+}
+.desc-dev ul,
+ul.timeline{
+	list-style:none;
+}
+.main-body {
+	padding: 0 15px;
+}
+@media (max-width:480px){
+	.search-main-field .input-group {
+		margin-bottom: 10px;
+		width: 100%;
+	}	
+}
